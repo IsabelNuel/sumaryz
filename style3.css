@@ -1,0 +1,33 @@
+body{
+  font-family:  'Nunito', sans-serif;
+}
+
+header{
+  background-color: #f0eee6;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 100px;
+  padding-right: 100px;
+  
+}
+
+button{
+    background-color: #f61067;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    border-color:#f61067 ;
+}
+
+footer{
+  background-color: #f0eee6;
+  color: #7740d7;
+  padding-top: 200px;
+
+}
+
+footer a{
+  color: #7740d7;
+}
